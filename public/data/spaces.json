@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Harbor Desk Co-Work",
+    "location": "Batangas City",
+    "description": "Street-access coworking with day passes and hourly desk booking.",
+    "price": 150,
+    "hours": {
+      "monday": "08:00–22:00",
+      "tuesday": "08:00–22:00",
+      "wednesday": "08:00–22:00",
+      "thursday": "08:00–22:00",
+      "friday": "08:00–22:00",
+      "saturday": "08:00–22:00",
+      "sunday": "08:00–22:00"
+    },
+    "images": ["/assets/spaces/hd1.jpg","/assets/spaces/hd2.jpg","/assets/spaces/hd3.jpg"],
+    "main_image": "/assets/spaces/hd1.jpg",
+    "time_slots": ["08:00–10:00","10:00–12:00","13:00–15:00","15:00–17:00","18:00–20:00"],
+    "amenities": ["Wi-Fi","Aircon","Power Outlets","Free Water"]
+  },
+  {
+    "id": 2,
+    "name": "Kyodo Spaces Coworking + Lounge",
+    "location": "Quezon City, Metro Manila",
+    "description": "Modern coworking lounge with hot desks, meeting rooms, and cafe lounge area.",
+    "price": 250,
+    "hours": {
+      "monday": "08:00–20:00",
+      "tuesday": "08:00–20:00",
+      "wednesday": "08:00–20:00",
+      "thursday": "08:00–20:00",
+      "friday": "08:00–20:00",
+      "saturday": "08:00–20:00",
+      "sunday": "08:00–20:00"
+    },
+    "images": ["/assets/spaces/kyodo1.jpg","/assets/spaces/kyodo2.jpg","/assets/spaces/kyodo3.jpg"],
+    "main_image": "/assets/spaces/kyodo1.jpg",
+    "time_slots": ["08:00–10:00","10:00–12:00","13:00–15:00","15:00–17:00","17:00–19:00"],
+    "amenities": ["Wi-Fi","Aircon","Power Outlets","Cafe"]
+  },
+  {
+    "id": 3,
+    "name": "Purple Desk Study Lounge & Coworking",
+    "location": "Sampaloc, Manila",
+    "description": "Quiet study lounge with coworking features and 24/7 access.",
+    "price": 180,
+    "hours": {
+      "monday": "Open 24h",
+      "tuesday": "Open 24h",
+      "wednesday": "Open 24h",
+      "thursday": "Open 24h",
+      "friday": "Open 24h",
+      "saturday": "Open 24h",
+      "sunday": "Open 24h"
+    },
+    "images": ["/assets/spaces/purple1.jpg","/assets/spaces/purple2.jpg","/assets/spaces/purple3.jpg"],
+    "main_image": "/assets/spaces/purple1.jpg",
+    "time_slots": ["00:00–02:00","02:00–04:00","04:00–06:00","06:00–08:00"],
+    "amenities": ["Wi-Fi","Aircon","Power Outlets","24/7"]
+  },
+  {
+    "id": 4,
+    "name": "933 Coworking Cafe",
+    "location": "Sampaloc, Manila",
+    "description": "Cafe + coworking, student friendly, offers unli drinks and fast Wi-Fi.",
+    "price": 150,
+    "hours": {
+      "monday": "08:00–05:00",
+      "tuesday": "08:00–05:00",
+      "wednesday": "08:00–05:00",
+      "thursday": "08:00–05:00",
+      "friday": "08:00–05:00",
+      "saturday": "08:00–05:00",
+      "sunday": "08:00–05:00"
+    },
+    "images": ["/assets/spaces/933a.jpg","/assets/spaces/933b.jpg","/assets/spaces/933c.jpg"],
+    "main_image": "/assets/spaces/933a.jpg",
+    "time_slots": ["08:00–10:00","10:00–12:00","13:00–15:00","15:00–17:00","17:00–19:00","19:00–22:00"],
+    "amenities": ["Wi-Fi","Unlimited Coffee","Power Outlets","Cafe"]
+  },
+  {
+    "id": 5,
+    "name": "The Glass House Study Hub",
+    "location": "Diliman, Quezon City",
+    "description": "Quiet study hub in Glass House with good lighting and power sockets.",
+    "price": 200,
+    "hours": {
+      "monday": "08:00–20:00",
+      "tuesday": "08:00–20:00",
+      "wednesday": "08:00–20:00",
+      "thursday": "08:00–20:00",
+      "friday": "08:00–20:00",
+      "saturday": "08:00–20:00",
+      "sunday": "08:00–20:00"
+    },
+    "images": ["/assets/spaces/glass1.jpg","/assets/spaces/glass2.jpg","/assets/spaces/glass3.jpg"],
+    "main_image": "/assets/spaces/glass1.jpg",
+    "time_slots": ["08:00–10:00","10:00–12:00","13:00–15:00","15:00–17:00","17:00–19:00"],
+    "amenities": ["Wi-Fi","Aircon","Power Outlets","Snacks"]
+  },
+  {
+    "id": 6,
+    "name": "47 East Resort-style Coworking",
+    "location": "Katipunan, Quezon City",
+    "description": "Relaxed resort-style coworking with garden views and indoor desks.",
+    "price": 220,
+    "hours": {
+      "monday": "08:00–22:00",
+      "tuesday": "08:00–22:00",
+      "wednesday": "08:00–22:00",
+      "thursday": "08:00–22:00",
+      "friday": "08:00–22:00",
+      "saturday": "08:00–22:00",
+      "sunday": "08:00–22:00"
+    },
+    "images": ["/assets/spaces/47east1.jpg","/assets/spaces/47east2.jpg","/assets/spaces/47east3.jpg"],
+    "main_image": "/assets/spaces/47east1.jpg",
+    "time_slots": ["08:00–10:00","10:00–12:00","13:00–15:00","15:00–17:00","17:00–19:00","19:00–21:00"],
+    "amenities": ["Wi-Fi","Garden","Aircon","Power Outlets"]
+  },
+  {
+    "id": 7,
+    "name": "StrEats Coworking Cafe (Ibis Styles)",
+    "location": "Araneta City, Quezon City",
+    "description": "Hotel-based coworking cafe, walk-ins welcome with workspace and food.",
+    "price": 180,
+    "hours": {
+      "monday": "06:00–22:00",
+      "tuesday": "06:00–22:00",
+      "wednesday": "06:00–22:00",
+      "thursday": "06:00–22:00",
+      "friday": "06:00–22:00",
+      "saturday": "06:00–22:00",
+      "sunday": "06:00–22:00"
+    },
+    "images": ["/assets/spaces/streets1.jpg","/assets/spaces/streets2.jpg","/assets/spaces/streets3.jpg"],
+    "main_image": "/assets/spaces/streets1.jpg",
+    "time_slots": ["06:00–08:00","08:00–10:00","10:00–12:00","13:00–15:00","15:00–17:00"],
+    "amenities": ["Wi-Fi","Cafe","Power Outlets","Aircon"]
+  },
+  {
+    "id": 8,
+    "name": "Workplace Café",
+    "location": "Manila / branch",
+    "description": "Coworking café with fiber WiFi, comfy seating, complimentary drinks.",
+    "price": 120,
+    "hours": {
+      "monday": "08:00–20:00",
+      "tuesday": "08:00–20:00",
+      "wednesday": "08:00–20:00",
+      "thursday": "08:00–20:00",
+      "friday": "08:00–20:00",
+      "saturday": "08:00–20:00",
+      "sunday": "08:00–20:00"
+    },
+    "images": ["/assets/spaces/wp1.png","/assets/spaces/wp2.png","/assets/spaces/wp3.png"],
+    "main_image": "/assets/spaces/wp1.png",
+    "time_slots": ["08:00–10:00","10:00–12:00","13:00–15:00","15:00–17:00","17:00–19:00"],
+    "amenities": ["Wi-Fi","Power Outlets","Drinks","Cafe"]
+  },
+  {
+    "id": 9,
+    "name": "KMC Coworking Solutions",
+    "location": "Ortigas / Luzon branches",
+    "description": "Serviced offices / coworking with day access and flexible packages.",
+    "price": 300,
+    "hours": {
+      "monday": "08:00–20:00",
+      "tuesday": "08:00–20:00",
+      "wednesday": "08:00–20:00",
+      "thursday": "08:00–20:00",
+      "friday": "08:00–20:00",
+      "saturday": "08:00–20:00",
+      "sunday": "08:00–20:00"
+    },
+    "images": ["/assets/spaces/kmc1.avif","/assets/spaces/kmc2.jpg","/assets/spaces/kmc3.avif"],
+    "main_image": "/assets/spaces/kmc1.avif",
+    "time_slots": ["08:00–10:00","10:00–12:00","13:00–15:00","15:00–17:00","17:00–19:00"],
+    "amenities": ["Wi-Fi","Office","Meeting Rooms","Power Outlets"]
+  },
+  {
+    "id": 10,
+    "name": "LOFT Coworking Philippines",
+    "location": "Ortigas, Pasig / Luzon",
+    "description": "Modern coworking lounge with creative ambiance and flexible passes.",
+    "price": 280,
+    "hours": {
+      "monday": "07:00–21:00",
+      "tuesday": "07:00–21:00",
+      "wednesday": "07:00–21:00",
+      "thursday": "07:00–21:00",
+      "friday": "07:00–21:00",
+      "saturday": "07:00–21:00",
+      "sunday": "07:00–21:00"
+    },
+    "images": ["/assets/spaces/loft1.avif","/assets/spaces/loft2.avif","/assets/spaces/loft3.jpg"],
+    "main_image": "/assets/spaces/loft1.avif",
+    "time_slots": ["07:00–09:00","09:00–11:00","11:00–13:00","13:00–15:00","15:00–17:00","17:00–19:00"],
+    "amenities": ["Wi-Fi","Lounge","Power Outlets","Community"]
+  }
+]
